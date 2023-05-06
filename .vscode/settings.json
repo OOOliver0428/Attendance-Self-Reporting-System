@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "43.140.253.7",
+            "port": 22704,
+            "driver": "MySQL",
+            "name": "db",
+            "database": "shy",
+            "username": "root",
+            "password": "Shy990428!"
+        }
+    ],
+    "code-runner.executorMap": {
+        "python": " set PYTHONIOENCODING=utf-8 && C:\\Users\\49842\\.conda\\envs\\web\\python.exe -u"
+    }
+}
